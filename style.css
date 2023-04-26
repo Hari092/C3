@@ -1,0 +1,49 @@
+h1{
+    color: brown;
+    width: auto;
+    padding: 5px 5px 5px 5px;
+}
+.container1{
+    display: flex;
+    flex-wrap: wrap;
+}
+.row1{
+    margin:auto ;
+    display: flex;
+    flex-wrap:wrap ;
+    margin-left: auto;
+    margin-right: auto;
+}
+.box1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: solid black 2px;
+    display: flex;
+    background-color:  rgb(86, 119, 248);
+}
+.box2{
+    border: solid black 2px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 30%;
+    height: 250px;
+    margin-left: 20px;
+    background-color: rgb(150, 155, 250);
+}
+.container2{
+    display: inline;
+    margin-left: 20px;
+}
+h2{
+    padding: auto;
+    margin-left: 50px;
+}
+p{
+    margin: auto;
+}
+.box3{
+    margin-top: 50px;
+    border: solid black 1px;
+    height: 600px;
+    background-color:  rgb(86, 119, 248);
+}
